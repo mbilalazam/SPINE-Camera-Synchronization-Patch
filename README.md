@@ -18,6 +18,7 @@ This patch introduces a simple JavaScript utility that synchronizes camera motio
 |------|--------------|
 | `sync_camera.js` | JavaScript patch for synchronized camera motion between 3D scenes. |
 | `print_and_display_single_event.ipynb` | Example notebook demonstrating integration with SPINE event displays. |
+| `MR6p1_0000492_entry_28_reco_0_truth_0.html` | Example event saved in HTML to see the patch in action. |
 | `README.md` | Documentation and usage guide. |
 
 ---
