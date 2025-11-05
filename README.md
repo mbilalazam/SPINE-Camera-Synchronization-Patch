@@ -39,9 +39,7 @@ When you open the HTML file, both 3D scenes (reconstructed and truth) will move 
 
 ### Option 2 — Integrate in your workflow
 
-A ready-to-run example is provided in 
-**`print_and_display_single_event.ipynb`**,  
-which demonstrates how to generate an interactive event display and automatically link the camera synchronization script.
+A ready-to-run example is provided in `print_and_display_single_event.ipynb`, which demonstrates how to generate an interactive event display and automatically link the camera synchronization script.
 
 ---
 
@@ -51,15 +49,9 @@ After integration, both 3D scenes behave as a single synchronized view:
 
 - Rotating one scene rotates the other.
 - Zoom and pan actions are mirrored.
-- Provides consistent spatial perspective between reconstructed and truth particle displays.
 
 ---
 
 ## Acknowledgment
 
-This script was developed as a **user-level extension** for the DUNE **SPINE** visualization framework.  
-It does not modify SPINE itself and can be safely included or removed as needed.
-
-**Author:** Muhammad Bilal Azam  
-**Affiliation:** Illinois Institute of Technology / DUNE Collaboration  
-**Date:** November 2025
+This script was developed as a user-level extension for the DUNE [SPINE](https://github.com/DeepLearnPhysics/spine) visualization framework. It does not modify SPINE itself and can be safely included or removed as needed.
